@@ -5,7 +5,7 @@ Android project using Kotlin
 <ul>
 <li class="has-line-data" data-line-start="6" data-line-end="7">Image labeler</li>
 <li class="has-line-data" data-line-start="7" data-line-end="8">Text recognition</li>
-<li class="has-line-data" data-line-start="8" data-line-end="10">Object detecto</li>
+<li class="has-line-data" data-line-start="8" data-line-end="10">Object detector</li>
 </ul>
 <h1 class="code-line" data-line-start=10 data-line-end=11 ><a id="Screenshoot_of_the_App_10"></a>Screenshoots of the App</h1>
 <img src="https://github.com/ryukya/Pictures/blob/master/menu.png" alt="drawing" width="400"/>
