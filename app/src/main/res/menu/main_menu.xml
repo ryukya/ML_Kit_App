@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Image Labeler"
+        app:showAsAction="never"
+        android:id="@+id/imgL"></item>
+    <item android:title="Text Recognition"
+        app:showAsAction="never"
+        android:id="@+id/txtR"></item>
+    <item android:title="Object Detector"
+        app:showAsAction="never"
+        android:id="@+id/txtObj"></item>
+    <item android:title="Help"
+        app:showAsAction="never"
+        android:id="@+id/help"></item>
+</menu>

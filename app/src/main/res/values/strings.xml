@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MLapp</string>
+    <string name="menuImg">Image Labeling</string>
+    <string name="menuTxt">Text Recognition</string>
+    <string name="menuObj">Object Detection</string>
+    <string name="tGal">Gallery</string>
+    <string name="tCam">Camera</string>
+    <string name="tPro">Recognize Text</string>
+    <string name="tLab">Label will be here</string>
+    <string name="tRes">Recognized Text will show up here</string>
+
+
+
+</resources>

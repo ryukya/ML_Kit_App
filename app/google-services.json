@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "255076300389",
+    "firebase_url": "https://mlapp-7eeb7.firebaseio.com",
+    "project_id": "mlapp-7eeb7",
+    "storage_bucket": "mlapp-7eeb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255076300389:android:e9577b9ea014bf8e70b88c",
+        "android_client_info": {
+          "package_name": "com.example.mlapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255076300389-k1kcjs7s4334ah30sg2gihji31spd3e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7i7NJ56vnCv7sAcrQgtAN8ALqLFCezPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255076300389-k1kcjs7s4334ah30sg2gihji31spd3e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
