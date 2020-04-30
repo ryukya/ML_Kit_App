@@ -1,6 +1,8 @@
 # ML_Kit_App
-Machine learning app using firebase for text recognition, image labeling, and object detector.
+*Felisia*
+<p>Machine learning app using firebase for text recognition, image labeling, and object detector.
 Android project using Kotlin 
+</p>
 <p class="has-line-data" data-line-start="4" data-line-end="5">MLKit App built with Android studio and Firebase.</p>
 <ul>
 <li class="has-line-data" data-line-start="6" data-line-end="7">Image labeler</li>
